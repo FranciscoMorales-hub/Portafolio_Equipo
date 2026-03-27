@@ -9,3 +9,21 @@
   font-weight: 700;
   font-style: normal;
 }
+body{
+background-color: #540B0E;
+    padding: 40px 20px;
+    margin-bottom: 15px;
+    font-family: 'Comic Relief';
+}
+h1{
+    color: #335C67;
+    padding: 40px 20px;
+    margin-bottom: 15px;
+    font-family: 'Comic Relief';
+}
+footer{
+    text-decoration-color:#E09F3E;
+    padding: 40px 20px;
+    margin-bottom: 15px;
+    font-family: 'Comic Relief';
+}
